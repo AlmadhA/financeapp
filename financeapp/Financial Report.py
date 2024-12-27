@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Setup
-st.title("Dashboard Keuangan Keluarga")
+st.title("Dashboard Keuangan - Rafif")
 
 # In-memory DataFrame untuk menyimpan data transaksi
 if "transactions" not in st.session_state:
